@@ -1,0 +1,10 @@
+@comment{x-kbibtex-personnameformatting=<%l><, %f>}
+
+@manual{an885,
+	author = "Yedamale, Padmaraja",
+	organization = "Microchip Technology Inc.",
+	pages = "20",
+	title = "{Brushless DC (BLDC) Motor Fundamentals}",
+	year = "2003"
+}
+

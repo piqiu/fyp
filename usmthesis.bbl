@@ -1,0 +1,20 @@
+\begin{thebibliography}{2}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Salah et~al.(2011)Salah, Ishak, and Hammadi]{7648}
+Wael~A. Salah, Dahaman Ishak, and Khaleel~J. Hammadi.
+\newblock {PWM Switching Strategy For Torque Ripple Minimization in BLDC
+  Motor}.
+\newblock \emph{Journal of Electrical Engineering}, 62\penalty0 (3):\penalty0
+  141--146, 2011.
+
+\bibitem[Yedamale(2003)]{an885}
+Padmaraja Yedamale.
+\newblock \emph{{Brushless DC (BLDC) Motor Fundamentals}}.
+\newblock Microchip Technology Inc., 2003.
+
+\end{thebibliography}
